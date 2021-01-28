@@ -1,18 +1,21 @@
 ### Hi there 👋
 
 
-
 <h1 align="center">Hi 👋, I'm yubaraj</h1>
 <h3 align="center">A passionate learner,designer,developer from Kathmandu</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yubarajsingh&label=Profile%20views&color=0e75b6&style=flat" alt="yubarajsingh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yubarajsingh" alt="yubarajsingh" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/singhyubaraj" target="blank"><img src="https://img.shields.io/twitter/follow/singhyubaraj?logo=twitter&style=for-the-badge" alt="singhyubaraj" /></a> </p>
 
 - 📝 I regulary write articles on [https://yubarajsingh.medium.com/](https://yubarajsingh.medium.com/)
+-here is my recent work:
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@yubarajsingh/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@yubarajsingh/0" alt="Recent Article 0"> 
 
+    
+    
 - 📫 How to reach me **yubaraj605@gmail.com**
 
 ### Blogs posts
@@ -37,4 +40,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yubarajsingh&show_icons=true&locale=en" alt="yubarajsingh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yubarajsingh&" alt="yubarajsingh" /></p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yubarajsingh" alt="yubarajsingh" /></a> </p>
