@@ -11,8 +11,7 @@
 <p align="left"> <a href="https://twitter.com/singhyubaraj" target="blank"><img src="https://img.shields.io/twitter/follow/singhyubaraj?logo=twitter&style=for-the-badge" alt="singhyubaraj" /></a> </p>
 
 
--here is my recent work:
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@yubarajsingh/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@yubarajsingh/0" alt="Recent Article 0"> 
+
 
     
     
